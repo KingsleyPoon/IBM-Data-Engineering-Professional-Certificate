@@ -1,2 +1,2 @@
-# IBM-Data-Engineering-Professional-Certificate
-Completed projects as part of the IBM Data Engineering Professional Certificate on Coursera
+# Background
+This repository contains the coding projects associated with IBM Data Engineering Professional Certificate
